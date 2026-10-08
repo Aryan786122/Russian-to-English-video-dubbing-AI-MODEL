@@ -1,0 +1,42 @@
+# Virtual Environment (do not commit 9.5GB venv)
+venv/
+env/
+.venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Temporary directories & Working files
+temp/
+outputs/
+
+# Large Media Files (Video & Audio)
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.wav
+*.flac
+*.mp3
+
+# Model Checkpoints & Pretrained Weights
+models/
+*.safetensors
+*.pt
+*.bin
+*.onnx
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Gradio Cache
+.gradio/

@@ -1,0 +1,15 @@
+torch>=2.6.0
+torchaudio>=2.6.0
+pysubs2>=1.9.0
+pyannote.audio>=4.0.0
+chatterbox-tts>=0.1.7
+audio-separator>=0.47.0
+faster-whisper>=1.0.0
+transformers>=4.40.0
+soundfile>=0.12.1
+librosa>=0.10.0
+numpy>=1.26.0
+scipy>=1.11.0
+gradio>=4.40.0
+pandas>=2.0.0
+tqdm>=4.66.0
